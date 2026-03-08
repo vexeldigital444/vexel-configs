@@ -1,0 +1,23 @@
+{
+    "plan": "starter",
+    "maintenance_active": true,
+    "branding": {
+        "name": "Bill Junior School",
+        "motto": "Knowledge is the best power",
+        "color": "#00ffff",
+        "address": "Jushin wake, Sabon gari Zaria. Kaduna State",
+        "phone": "08012345678",
+        "email": "billyclint828@outlook.com",
+        "logo_url": "https:\/\/vexelweb.ct.ws\/images\/logo.png"
+    },
+    "addons": {
+        "custom_domain": false,
+        "migration": true,
+        "training_paid": 5,
+        "training_used": 0
+    },
+    "meta": {
+        "generated_at": "2026-03-08T10:51:01Z",
+        "api_key": "345f6b6dd02861a2cf56b76b172a4d50"
+    }
+}
