@@ -1,0 +1,23 @@
+{
+    "plan": "starter",
+    "maintenance_active": false,
+    "branding": {
+        "name": "Spring Academy",
+        "motto": "Knowledge is the best power",
+        "color": "#ff00ff",
+        "address": "Jushin wake, Sabon gari Zaria. Kaduna State",
+        "phone": "08012345678",
+        "email": "omarabdull385@outlook.com",
+        "logo_url": "https:\/\/vexelweb.ct.ws\/images\/logo.png"
+    },
+    "addons": {
+        "custom_domain": false,
+        "migration": true,
+        "training_paid": 0,
+        "training_used": 0
+    },
+    "meta": {
+        "generated_at": "2026-03-09T11:22:40Z",
+        "api_key": "ef821274b889bd0a49327883360bebcc"
+    }
+}
