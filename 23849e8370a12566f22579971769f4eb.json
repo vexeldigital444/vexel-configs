@@ -1,0 +1,23 @@
+{
+    "plan": "premium",
+    "maintenance_active": true,
+    "branding": {
+        "name": "Oxford",
+        "motto": "We excel in academics",
+        "color": "#1d4ed8",
+        "address": "Zaria Kaduna State Nigeria",
+        "phone": "09165454456",
+        "email": "oxford@gmail.com",
+        "logo_url": ""
+    },
+    "addons": {
+        "custom_domain": true,
+        "migration": true,
+        "training_paid": 0,
+        "training_used": 0
+    },
+    "meta": {
+        "generated_at": "2026-05-03T16:23:04Z",
+        "api_key": "23849e8370a12566f22579971769f4eb"
+    }
+}
